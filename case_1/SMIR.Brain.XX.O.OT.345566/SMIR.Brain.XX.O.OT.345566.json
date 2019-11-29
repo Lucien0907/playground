@@ -1,0 +1,155 @@
+{
+  "segmentationImage": {
+    "methodDescription": null,
+    "segmentationMethod": null
+  },
+  "id": 345566,
+  "createdDate": "2018-07-03T13:32:48.5430000Z",
+  "name": "SMIR.Brain.XX.O.OT.345566.000.nii",
+  "description": "ISLES 2018 - TRAIN - Train_01_A - OT",
+  "ontologyCount": 1,
+  "type": {
+    "name": "SegmentationImage",
+    "displayName": "Segmentation Image",
+    "displayNameShort": "SEG",
+    "selfUrl": "https://www.smir.ch/api/object_types/SegmentationImage"
+  },
+  "downloadUrl": "https://www.smir.ch/api/objects/345566/download",
+  "license": {
+    "selfUrl": "https://www.smir.ch/api/licenses/8"
+  },
+  "files": {
+    "totalCount": 1,
+    "pagination": {
+      "rpp": 25,
+      "page": 0
+    },
+    "items": [
+      {
+        "selfUrl": "https://www.smir.ch/api/files/1188352"
+      }
+    ],
+    "nextPageUrl": null
+  },
+  "linkedObjects": {
+    "totalCount": 7,
+    "pagination": {
+      "rpp": 25,
+      "page": 0
+    },
+    "items": [
+      {
+        "selfUrl": "https://www.smir.ch/api/objects/79157"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/objects/345561"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/objects/345562"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/objects/345563"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/objects/345564"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/objects/345565"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/objects/345567"
+      }
+    ],
+    "nextPageUrl": null
+  },
+  "linkedObjectRelations": {
+    "totalCount": 7,
+    "pagination": {
+      "rpp": 25,
+      "page": 0
+    },
+    "items": [
+      {
+        "selfUrl": "https://www.smir.ch/api/object-links/1690140"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/object-links/1690785"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/object-links/1690790"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/object-links/1690794"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/object-links/1690797"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/object-links/1690799"
+      },
+      {
+        "selfUrl": "https://www.smir.ch/api/object-links/1690801"
+      }
+    ],
+    "nextPageUrl": null
+  },
+  "ontologyItems": {
+    "totalCount": 1,
+    "pagination": {
+      "rpp": 25,
+      "page": 0
+    },
+    "items": [
+      {
+        "selfUrl": "https://www.smir.ch/api/ontologies/0/50801"
+      }
+    ],
+    "nextPageUrl": null
+  },
+  "ontologyItemRelations": {
+    "totalCount": 1,
+    "pagination": {
+      "rpp": 25,
+      "page": 0
+    },
+    "items": [
+      {
+        "selfUrl": "https://www.smir.ch/api/object-ontologies/0/781431"
+      }
+    ],
+    "nextPageUrl": null
+  },
+  "objectPreviews": [
+    {
+      "selfUrl": "https://www.smir.ch/api/objects/345566/previews/0"
+    },
+    {
+      "selfUrl": "https://www.smir.ch/api/objects/345566/previews/1"
+    },
+    {
+      "selfUrl": "https://www.smir.ch/api/objects/345566/previews/2"
+    },
+    {
+      "selfUrl": "https://www.smir.ch/api/objects/345566/previews/3"
+    },
+    {
+      "selfUrl": "https://www.smir.ch/api/objects/345566/previews/4"
+    },
+    {
+      "selfUrl": "https://www.smir.ch/api/objects/345566/previews/5"
+    }
+  ],
+  "objectGroupRights": [
+    {
+      "selfUrl": "https://www.smir.ch/api/object-group-rights/561760"
+    },
+    {
+      "selfUrl": "https://www.smir.ch/api/object-group-rights/561761"
+    },
+    {
+      "selfUrl": "https://www.smir.ch/api/object-group-rights/561762"
+    }
+  ],
+  "objectUserRights": null,
+  "selfUrl": "https://www.smir.ch/api/objects/345566"
+}
